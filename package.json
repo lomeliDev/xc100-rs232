@@ -1,6 +1,6 @@
 {
   "name": "xc100-rs232",
-  "version": "0.0.3",
+  "version": "0.0.1",
   "description": "Node.JS library for TOP Vending Machine",
   "main": "src/index.js",
   "scripts": {
