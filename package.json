@@ -1,6 +1,6 @@
 {
   "name": "xc100-rs232",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Node.JS library for TOP Vending Machine",
   "main": "src/index.js",
   "scripts": {
@@ -27,7 +27,7 @@
   "homepage": "https://github.com/lomeliDev/xc100-rs232#readme",
   "dependencies": {
     "chalk": "^2.4.2",
-    "serialport": "^9.2.0"
+    "serialport": "9.0.7"
   },
   "devDependencies": {
     "eslint": "^7.25.0",
